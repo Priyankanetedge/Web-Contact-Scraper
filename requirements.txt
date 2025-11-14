@@ -1,1 +1,8 @@
-
+requests
+beautifulsoup4
+spacy
+pandas
+streamlit
+duckduckgo_search
+lxml        # makes BeautifulSoup parsing faster
+openpyxl
